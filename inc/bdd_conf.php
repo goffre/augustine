@@ -4,7 +4,7 @@ session_start();
 // Configuration.
 $host = "localhost";
 $user = "root";
-$pass = "";
+$pass = "guigui";
 $db = "augustine";
 
 $pdo = null;
